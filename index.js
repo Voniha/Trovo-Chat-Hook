@@ -46,7 +46,7 @@ async function connectToServer() {
 }
 
 connectToServer()
-async function getChatToken() {                                       // id of the channel you want to receive messages.
+async function getChatToken() {                                       // id of the Trovo channel you want to receive messages.
     let res = await fetch("https://open-api.trovo.live/openplatform/chat/channel-token/{channel_id}", {
         method: "GET",
         headers: {
