@@ -2,7 +2,7 @@ const fetch = require("node-fetch");
 const WebSocket = require("ws");
 
 async function connectToServer() {
-    console.log("Bot started! Please keep this window open.");
+    console.log("Bot started! Please keep this window opened.");
     const ws = new WebSocket('wss://open-chat.trovo.live/chat');
     return new Promise(async (resolve, reject) => {
         const timer = setInterval(async () => {
