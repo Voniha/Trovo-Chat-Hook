@@ -5,4 +5,4 @@ This is public script for Trovo chat on Discord. It uses websocket to read chat.
 2. Replace the string parts with {}, also with brackets.
 3. Run cmd and type npm install to install required modules.
 4. Run node index.js
-5.
+5. Whoila!
