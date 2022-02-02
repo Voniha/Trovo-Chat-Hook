@@ -51,7 +51,7 @@ async function getChatToken() {                                       // id of t
         method: "GET",
         headers: {
             Accept: "application/json",
-            "Client-ID": "${api_client_id}", // developer.trovo.live
+            "Client-ID": "{api_client_id}", // developer.trovo.live
         }
     });
     let data = await res.json();
