@@ -38,7 +38,7 @@ async function connectToServer() {
                 },
                 body: JSON.stringify({
                     username: "Trovo Chat",
-                    content: `**${cht.data.chats[0].nick_name}** - ${cht.data.chats[0].content}`,
+                    content: `**${cht.data.chats[0].nick_name}:** - ${cht.data.chats[0].content}`,
                 }),
             });
         });
