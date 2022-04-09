@@ -7,4 +7,4 @@ This is public script for Trovo chat on Discord. It uses websocket to read chat.
 4. Run node index.js
 5. Whoila!
 
-For any questions please contact me on Discord: 𝒱𝑜𝓃𝒾𝒽𝒶#2302 or eXecute Official#9999
+For any questions please contact me on Discord: Voniha/tac#2302
