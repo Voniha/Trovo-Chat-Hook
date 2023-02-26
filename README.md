@@ -7,4 +7,4 @@ This is public script for Trovo chat on Discord. It uses websocket to read chat.
 4. Press space once.
 5. Write "help" and see all the commands available.
 
-For any questions please contact me on Discord: Voniha#2302
+For any questions please contact me on Discord: 𝕍𝕠𝕟𝕚𝕙𝕒#2302
