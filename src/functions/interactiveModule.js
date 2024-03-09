@@ -8,7 +8,7 @@ class interactiveModule {
     static ask() {
         let rl = readline.createInterface({ input: process.stdin, output: process.stdout });
         rl.on("close", () => rl.write("Bye, thanks for using my script!"));
-        rl.write("Welcome to the Trovo Chat client by Voniha#2302");
+        rl.write("Welcome to the Trovo Chat client by voniha");
         rl.write("\n");
         rl.on("line", async (line) => {
             switch (line) {
